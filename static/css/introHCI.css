@@ -23,8 +23,9 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("/static/images/lorempixel.abstract.8.jpeg");
      opacity: 0.2;
+     background-size: 100%;
      top: 0;
      left: 0;
      bottom: 0;
